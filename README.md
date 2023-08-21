@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+My name is Renato Oliveira from Brazil. I've been working as Software Developer since 2005 and currently I'm Developer at GFT Group. I'm passionate about programming .
+
+In my free time, I am with my family (👨‍👩‍👧‍👦) I like watching football (⚽️), watching movies (🎞️), reading books (📚), listening to music (🎵) and eventually I like playing football with friends (⚽️).
+
+## Here are some personal projects(🎨)
+
+- [apiTest(https://github.com/ochannel/apiTest) (🤖) 
+	> Project  developed with Spring Boot,PostgreSQL,Clean Architecture. This project was developed to demonstrate how I organize my code, the use of HTTP verbs, and the application of Spring Boot knowledge to develop a RESTful API.
+
 <!--
 **ochannel/ochannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

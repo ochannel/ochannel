@@ -3,7 +3,7 @@
 
 My name is Renato Oliveira from Brazil. I've been working as Software Developer since 2005 and currently I'm Developer at GFT Group. I'm passionate about programming .
 
-In my free time, I am with my family (👨‍👩‍👧‍👦) I like watching football (⚽️), watching movies (🎞️), reading books (📚), listening to music (🎵) and eventually I like playing football with friends (⚽️).
+In my free time, I like to stay with my family (👨‍👩‍👧‍👦). I also like watching football (⚽️) and movies (🎞️), reading books (📚), listening to music (🎵) and eventually I like to play football with friends (⚽️).
 
 
 ## Here are some personal projects(🎨)
